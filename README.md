@@ -50,6 +50,7 @@ if (lam <  mu):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
+```
 ## Output:
 ![output](https://github.com/RuchithaReddy28/Single-server-infinite-capacity---Markov-Model/blob/main/z1.png?raw=true)
 ## Result:
